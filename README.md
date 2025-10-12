@@ -28,15 +28,17 @@
 
 ## Cursos y Participación Académica
 
-### PWF Latin America - Physics Latam: Relatividad General y Cosmología
-*Septiembre 2025 | Online*
-
-- *En progreso*
 
 ### Python: de cero a experto
 *2025 | Online*
 
 - *En progreso*
+
+- ### PWF Latin America - Physics Latam: Relatividad General y Cosmología
+*Septiembre 2025 | Online*
+
+- Relatividad General avanzada.
+
 
 ### XI Escuela de Astronomía y Astrofísica
 **Escuela Politécnica Nacional**  
