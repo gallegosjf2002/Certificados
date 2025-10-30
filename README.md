@@ -63,17 +63,6 @@ Temas Cubiertos (Total 80 horas): Procesamiento de imágenes en Python (formatos
 
 - Asistente en el ICTP Physics Without Frontiers
 
-### Bootcamp Avante 2025
-**Universidad Yachay Tech**  
-*Julio 2025 | Urcuquí, Ecuador*
-
-- Programa intensivo de 80 horas enfocado en ciencia de datos, astronomía y astrofísica
-- Procesamiento de imágenes en Python: formatos científicos, filtros, FFT, renderizado 3D, visualización en Jupyter
-- Software astronómico: TOPCAT, Aladin, SAO-ds9, gnuastro, GALFIT
-- Aprendizaje automático: aprendizaje supervisado/no supervisado, CNNs, RNNs, autoencoders, UMAP, t-SNE
-- Análisis Bayesiano, MCMC, inferencia variacional, astronomía de dominio temporal y modelado de datos espectrales
-- Herramientas de educación y divulgación astronómica: applets digitales, software de simulación e interpretación del cielo andino
-
 ### YEES LIGHT
 **Casa de la Cultura Ecuatoriana**  
 *Abril 2025 | Quito, Ecuador*
