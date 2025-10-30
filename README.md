@@ -34,6 +34,16 @@
 
 - *En progreso*
 
+### Bootcamp de Procesamiento de Imágenes con Inteligencia Artificial
+Capacitación Avante 2025 (CEDIA, Escuela Politécnica Nacional, Universidad Yachay Tech) Julio 2025 | Urcuquí, Ecuador
+
+Certificado de Aprobación por Módulos:
+- Módulo A: Procesamiento de Imágenes (30 horas, 7 al 11 de julio) 
+- Módulo B: Inteligencia Artificial (30 horas, 14 al 18 de julio) 
+-Módulo C: Astronomía educativa, cultural y técnica (20 horas, 21 al 25 de julio) 
+Temas Cubiertos (Total 80 horas): Procesamiento de imágenes en Python (formatos científicos, filtros, FFT, renderizado 3D) , Aprendizaje Automático (supervisado/no supervisado, CNNs, RNNs, autoencoders) , y Astronomía aplicada (software astronómico, análisis Bayesiano, modelado de datos espectrales).
+
+
 - ### PWF Latin America - Physics Latam: Relatividad General y Cosmología
 *Septiembre 2025 | Online*
 
